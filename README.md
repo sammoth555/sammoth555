@@ -25,7 +25,7 @@ I am particularly interested in projects that:
 ### 🛠️ Skills:
 
 - **C#**
-- **Unity Engine**
+- Unity Engine
 - Currently learning **Rust**
 
 ### 📫 Reach Out:
