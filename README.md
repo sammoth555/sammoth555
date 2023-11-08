@@ -37,6 +37,6 @@ I'm always open to connecting with like-minded enthusiasts and creators. If you'
   <i>Looking forward to building something great together.</i>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sammoth555.sammoth555" alt="visitor badge"/>
-</p> -->
+</p>
