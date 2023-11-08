@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Sam 👋</h1>
 <h3 align="center">A Passionate Developer on a Mission</h3>
-
 ---
 
 ### 👀 About Me:
@@ -25,7 +24,6 @@ I am particularly interested in projects that:
 ### 📫 Reach Out:
 
 Let's connect! Whether it's for potential collaborations or just to exchange ideas, I'd love to hear from you.
-- 💬 Discord: [Your Discord Handle]
 ---
 <p align="center">
   <i>Looking forward to building something great together.</i>
