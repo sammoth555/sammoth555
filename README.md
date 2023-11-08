@@ -21,9 +21,7 @@ I am particularly interested in projects that:
 - Proficient in **C#**
 - Currently learning **Rust**
 
-### 📫 Reach Out:
-
-Let's connect! Whether it's for potential collaborations or just to exchange ideas, I'd love to hear from you.
+### 📫 Reach out and let's connect! Whether it's for potential collaborations or just to exchange ideas, I'd love to hear from you.
 ---
 <p align="center">
   <i>Looking forward to building something great together.</i>
