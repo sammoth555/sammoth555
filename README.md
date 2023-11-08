@@ -24,8 +24,8 @@ I am particularly interested in projects that:
 
 ### 🛠️ Skills:
 
-- Proficient in **C#**
-- Unity Engine Expert
+- **C#**
+- **Unity Engine **
 - Currently learning **Rust**
 
 ### 📫 Reach Out:
